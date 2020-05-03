@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"Actor2_4","characterIndex":3,"characterName":"Actor2","classId":1,"equips":[1,0,0,0,0],"faceIndex":3,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"กุญจ์สิริลัญฉกร","nickname":"กุญ","note":"","profile":"สาวน้อยน่ารัก ผู้พิทักษ์อัญมณีแห่งต้นตระกูล"},
+{"id":2,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":2,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"พจชรดลญา","nickname":"พจ","note":"","profile":"สาวน้อยน่ารัก ผู้พิทักษ์ความยุติธรรม"},
+{"id":3,"battlerName":"Actor3_8","characterIndex":7,"characterName":"Actor3","classId":3,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"กมลานันท์","nickname":"นัน","note":"","profile":"สาวน้อยน่ารัก ผู้มีเวทย์มนต์คาถา"},
+{"id":4,"battlerName":"Actor3_7","characterIndex":6,"characterName":"Actor3","classId":4,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"ลีฬฆวรรณ","nickname":"ลี","note":"","profile":""},
+{"id":5,"battlerName":"Actor3_9","characterIndex":0,"characterName":"Nature","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"ป๊อกกี้","nickname":"","note":"","profile":"หมาน้อยน่ารัก ซื่อสัตย์ กินเก่ง ขี้อ้อน"}
+]
